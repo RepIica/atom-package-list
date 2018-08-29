@@ -1,0 +1,17 @@
+atom-clock@0.1.16
+atom-pair@2.0.13
+atom-ternjs@0.18.3
+atom-wrap-in-tag@0.6.0
+color-picker@2.3.0
+file-icons@2.1.22
+language-babel@2.85.0
+markdown-preview-plus@3.3.3
+pigments@0.40.2
+rails-snippets@2.19.0
+react-es7-snippets@0.3.13
+react-redux-atom-snippets@0.7.2
+react-redux-react-native-snippets@0.2.4
+tree-view-copy-relative-path@1.2.0
+vaporwave-syntax@0.0.6
+vaporwave-ui@0.0.2
+
